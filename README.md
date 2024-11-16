@@ -59,6 +59,14 @@ Developed by: PRASANA V
   RegisterNumber:212223040150
 ```
 
+
+
+
+**TRUTH TABLE**
+
+![WhatsApp Image 2024-11-15 at 09 23 43_f33127bc](https://github.com/user-attachments/assets/e5d987ac-a374-4752-a73f-6c4332a25513)
+
+
 **RTL LOGIC UP COUNTER**
 ![Screenshot (141)](https://github.com/user-attachments/assets/734d182e-ac06-440d-93d1-552e19d79155)
 
@@ -68,12 +76,10 @@ Developed by: PRASANA V
 ![Screenshot (142)](https://github.com/user-attachments/assets/5d1ae1ed-2583-4253-9e56-49ec864ad0f7)
 
 
-**TRUTH TABLE**
-
-![WhatsApp Image 2024-11-15 at 09 23 43_f33127bc](https://github.com/user-attachments/assets/e5d987ac-a374-4752-a73f-6c4332a25513)
 
 
 
 
 **RESULTS**
+
 Hence a 4 bit synchronous up counter is implemented correctly
