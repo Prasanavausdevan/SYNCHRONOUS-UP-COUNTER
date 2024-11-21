@@ -40,6 +40,10 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 
 **PROGRAM**
 ```
+Developed by:Prasana v 
+RegisterNumber:212223040150
+```
+```
 module exp11(out,clk,rst);
 input clk,rst;
 output reg [3:0]out;
